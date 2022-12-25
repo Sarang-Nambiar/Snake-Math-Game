@@ -30,7 +30,7 @@ The target audience of our game are kindergarten kids who are learning simple ma
 3. Configurable game speeds to increase difficulty of game
 
 #### Documentation
-The documentation is included as a part of this notebook.
+The documentation is included as a part of the notebook.
 
 ## Instructions
 **Rules:**
