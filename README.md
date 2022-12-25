@@ -54,6 +54,7 @@ The documentation is included as a part of the notebook.
 3. 'D' to go right
 4. 'S' to go down
 
+
 #### Citations
 
 cdlane. (2020, May 20). How to display texts in front of the box in Python? Retrieved from https://stackoverflow.com/questions/61854065/how-to-display-texts-in-front-of-the-box-in-python
