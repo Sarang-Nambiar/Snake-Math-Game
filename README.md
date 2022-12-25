@@ -1,6 +1,6 @@
 # Snake-Math-Game
 
-# Welcome to the snake math game!!! 
+# Welcome to the Snake Math Game 🐍🍎!!! 
 
 ## Done By:
 
