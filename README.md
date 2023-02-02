@@ -9,8 +9,6 @@
 
 | Name      | Student ID |
 | ----------- | ----------- |
-| Xie Jiacheng   | 1005911   |
-| Langarkande Rishita Sanjeev     | 1006031       |
 | Sarang Nambiar   | 1006181   |
 | Abel Lee Yang Yeow   | 1006085        |
 | Loh Jianyang, John     | 1006360       |
